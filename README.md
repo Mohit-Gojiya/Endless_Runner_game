@@ -22,7 +22,7 @@ Built with **Unity & C#**, this game features smooth controls, procedural diffic
 
 ### 🟢 Start Screen
 <p align="center">
-  <img src=![alt text](image.png)"https://via.placeholder.com/600x300.png?text=Start+Screen" alt="Start Screen" width="600"/>
+  <img src="https://via.placeholder.com/600x300.png?text=Start+Screen" alt="Start Screen" width="600"/>
 </p>
 
 ### 🎮 In-Game

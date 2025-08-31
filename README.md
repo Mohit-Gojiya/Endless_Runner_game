@@ -22,17 +22,17 @@ Built with **Unity & C#**, this game features smooth controls, procedural diffic
 
 ### 🟢 Start Screen
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Start+Screen" alt="Start Screen" width="600"/>
+  <img src="https://github.com/user-attachments/assets/75e2ff7b-3976-4ae2-b248-744c4fb47868" alt="Start Screen" width="600"/>
 </p>
 
 ### 🎮 In-Game
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=In-Game+Screenshot" alt="In-Game Screenshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2adb25f0-ca9c-4018-b8b5-5588387efae6" alt="In-Game Screenshot" width="600"/>
 </p>
 
 ### 🔴 Game Over Screen
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Game+Over+Screen" alt="Game Over Screen" width="600"/>
+  <img src="https://github.com/user-attachments/assets/3b135f00-e399-42dd-8531-01877d2f4d12"" width="600"/>
 </p>
 
 ---
@@ -44,5 +44,6 @@ Built with **Unity & C#**, this game features smooth controls, procedural diffic
 
 ---
 
-## 🚀 How to download
+## 🚀 download apk from repo.
+
 
